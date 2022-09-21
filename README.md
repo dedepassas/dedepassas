@@ -12,7 +12,7 @@
   <img align="center" alt="Dede-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Dede-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Dede-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">           
+  <img align="right" alt="Adndré-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104800271/191618341-94125039-285b-4f9a-9c63-3285f872e548.gif">           
 </div>
   
 ##
