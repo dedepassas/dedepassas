@@ -12,7 +12,7 @@
   <img align="center" alt="Dede-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Dede-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Dede-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="André-Pic" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/776942293440659481/1022263262919807046/Untitled-1.gif">            
+  <img align="center" alt="André-Pic" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104800271/191617619-92ec352f-75d5-433b-af76-3adc80d61776.gif">            
 </div>
   
 ##
