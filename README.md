@@ -26,6 +26,3 @@
   ![Snake animation](https://github.com/dedepassas/dedepassas/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-  
-  https://user-images.githubusercontent.com/104800271/191617619-92ec352f-75d5-433b-af76-3adc80d61776.gif
