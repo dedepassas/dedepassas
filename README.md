@@ -13,7 +13,7 @@
   <img align="center" alt="Dede-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Dede-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Dede-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="right" alt="André-Pic" height="150" style="border-radius:50px;" src="https://instagram.fplu21-1.fna.fbcdn.net/v/t51.2885-19/191630012_252698486636738_8105935059831985752_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fplu21-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=EytN2apGCKYAX-osFec&tn=_H3d4cI_7JI89eLv&edm=ALCvFkgBAAAA&ccb=7-4&oh=00_AT8T9dOHDko23mht0n0WI9LuBjOUBfPu_tAk5HWm908IQA&oe=6285FFE1&_nc_sid=643ae9">            
+  <img align="right" alt="André-Pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/776942293440659477/776942293440659481/1022258419564032010">            
 </div>
   
 ##
